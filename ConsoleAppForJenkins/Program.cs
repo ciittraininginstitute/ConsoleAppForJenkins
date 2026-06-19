@@ -11,7 +11,7 @@ namespace ConsoleAppForJenkins
         public void Add()
         {
             int a, b, c;
-            a = 10;
+            a = 10
             b = 20;
             c = a + b;
             Console.WriteLine("Add=" + c);
